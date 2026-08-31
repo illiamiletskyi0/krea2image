@@ -1,6 +1,6 @@
 ### 
 ### File to copy the production compose files configuration. 
-### used automatically when building without a specified compose file.
+### used automatically when building without a specified compose file. 
 ### 
 version: "3.8"
 services:
